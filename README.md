@@ -46,4 +46,4 @@ When a system becomes unresponsive or is about to crash, `system-freeze-ejector`
 
 ## License
 
-AGPL-3.0-or-later
+PMPL-1.0-or-later
